@@ -1,2 +1,2 @@
-Flask==0.8
+Flask==1.0
 requests==0.11.1
