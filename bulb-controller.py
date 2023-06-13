@@ -1,3 +1,5 @@
+# This code intents to switch on / off a bulb, attached to a ESP8266 controller, through Thinger
+
 from flask import Flask, render_template, request
 import requests
 
